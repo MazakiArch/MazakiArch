@@ -1,4 +1,4 @@
-# Oi, me chamo Marco Túlio 👋
+# Olá! Me chamo Marco Túlio 👋
 
 ### Sobre mim
 
