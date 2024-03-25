@@ -1,73 +1,38 @@
-# Olá! Me chamo Marco Túlio 👋
+<br >
+<img align="left" padding="20px" alt="Foto de perfil de Marco Túlio" src="https://media.licdn.com/dms/image/D4D03AQF2PmwzARPasg/profile-displayphoto-shrink_800_800/0/1707820795347?e=1717027200&v=beta&t=IiGb0eZKkK6YAZ7AhDbsOf2jRSNiBY42VHe5oKxXfHk">
+<h1> 
+  <a href="https://www.linkedin.com/in/tauangabriel/" style="color: #f00 !important; text-decoration: none; color: inherit;">
+    <span>Marco Túlio Costa Quirino</span>
+  </a>
+</h1>
 
-### Sobre mim
+#### Java | Spring | SpringBoot | PostgreSQL | MySQL
+<i>(uberlândia, MG   - Brasil)</i>
 
-💻 Eu sou um desenvolvedor Back-End
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/tulio372)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/costa-quirino/)
+[![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tulio372@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+34+993381872)  
+[![GitHub](https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MazakiArch)
+<br />
+<br />
 
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
+###  Sobre
+<i>
+<br />
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)] na @[[Cubos Academy](https://cubos.academy/)
+> Olá! Me chamo Marco Túlio, um apaixonado em Tecnologia. Me encontrei na programação muito cedo e estudo para desenvolver soluções práticas e eficazes.
+  
+> Atualmente sou aluno da Cubos Academy, nos estudos de BackEnd utilizando  ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white).
+  
+> Ao longo dos anos, tive o privilégio de me apaixonar pelo Java, então aqui você vai encontrar os mais diversos repositórios. 
+  
+> Busco me desenvolver profissionalmente para alcançar minha senioridade na area de Desenvolvimento.
+  
+> Se você está em busca de um profissional apaixonado e dedicado para impulsionar seus projetos de tecnologia, estou aqui para ajudar e também aprender. Vamos construir algo incrível juntos!
+</i>
+<br/>
 
-🎓 Faço faculdade de [Analise e Desenvolvimento de Sistemas](https://descomplica.com.br/faculdade/tecnologia/analise-e-desenvolvimento-de-sistemas/) @[Descomplica](https://descomplica.com.br/faculdade/)
-
-👩‍💻 Atualmente eu trabalho como Analista de TI na empresa ALSAN INFORRMATICA
-
-🎮 Também acompanho todo o mundo de eSports, como League of Legends e CS2.
-
-### Eu já trabalhei com... 🔧
-
-**Tecnologias e Ferramentas**
-
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
-
-### Eu estou estudando... 🧩
-<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
-
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-
-<!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
-
-### Cursos realizados 🤓
-
-<!-- (Aqui você pode adicionar cursos que você já fez) -->
-
-![Fundamentos de Banco de Dados](https://img.shields.io/badge/-Fundamentos%20de%20Banco%20de%20Dados-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==)
-![Programação Orientada a Objetos](https://img.shields.io/badge/-Programação%20Orientada%20a%20Objetos-19272E?style=for-the-badge&?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEQSURBVHgBjZLNTcNAEIXfrJMoPSAkpwNTAaYCSAfugD0GThzgjOiADhAdhApwB1l+JK6cI3aHGWstbeKNnJFWtsffm3myHyDFzFbOhsfrXU6DKGqiqMZIKRNZizhlIPrGbfWFVdf/xM2VPqfiidxXRLQezqdHg8L9YOUCzEsAXXRdYUVYTnKWBC4DUCvMMDUB7hT3O8NNTugFRoQJdB3gX/eZ7MYejpurP8yXA0a/sfimXZvFZovpYoqtlSHnJ3g4S0WqMRmbVi7tAndOXl568FPOlck0Olh/BYNKj9l6VJjCYrFh8JtuPiT86ANAmP96hKXCjOIZmNl9QWTbNKc1RiqJXNM3NK/tESF3XU6l/gHnFvELsPPX8gAAAABJRU5ErkJggg==&link=https://cubos.academy/)
-
-<!--
-Substitua o usuário lbguilherme pelo seu usuário no GitHub.
--->
-
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/MazakiArch">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazakiArch&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MazakiArch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-### Entre em contato comigo! 📭
-<div>
-<a href="https://www.linkedin.com/in/costa-quirino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-
-Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
-
-<!--
-**academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+#### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
+[![Linguagens](https://github-readme-stats.vercel.app/api?username=MazakiArch&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/MazakiArch?tab=repositories)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MazakiArch&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/MazakiArch?tab=repositories)
