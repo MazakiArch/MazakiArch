@@ -1,5 +1,3 @@
-<br >
-<img align="left" padding="20px" alt="Foto de perfil de Marco Túlio" src="https://media.licdn.com/dms/image/D4D03AQF2PmwzARPasg/profile-displayphoto-shrink_800_800/0/1707820795347?e=1717027200&v=beta&t=IiGb0eZKkK6YAZ7AhDbsOf2jRSNiBY42VHe5oKxXfHk">
 <h1> 
   <a href="https://www.linkedin.com/in/tauangabriel/" style="color: #f00 !important; text-decoration: none; color: inherit;">
     <span>Marco Túlio Costa Quirino</span>
